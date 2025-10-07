@@ -1,0 +1,6 @@
+{
+  "/api-docs/page": "app/api-docs/page.js",
+  "/charts/page": "app/charts/page.js",
+  "/faq/page": "app/faq/page.js",
+  "/page": "app/page.js"
+}
